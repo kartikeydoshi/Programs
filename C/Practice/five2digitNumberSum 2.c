@@ -1,0 +1,1 @@
+//a program to accept 5, 2- digit numbers from user and add them. If the user enters a three digit number, this number should be discarded and again accepted. Also an indication must be given to the user that he has entered a number greater than 99 and hence it is not accepted. The sum must be displayed at the end.
