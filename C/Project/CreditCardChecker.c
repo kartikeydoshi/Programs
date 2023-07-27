@@ -6,9 +6,6 @@ all Visa numbers start with 4, validate cc using Luhn's algorithm (length=13/16)
 */
 
 #include<stdio.h>
-#include<stdbool.h>
-
-
 
 
 int len_check(long n);
